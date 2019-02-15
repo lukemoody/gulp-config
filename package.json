@@ -1,0 +1,35 @@
+{
+  "name": "gulp-config-example",
+  "version": "1.0.0",
+  "author": "Luke Moody <hello@lukemoody.co.uk>",
+  "homepage": "https://github.com/lukemoody/gulp-config",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukemoody/gulp-config"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/lukemoody/gulp-config/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+  }
+}
